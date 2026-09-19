@@ -1,0 +1,9 @@
+name: zzq-canary
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "zzq-wep-canary-0920"
