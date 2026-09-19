@@ -1,1 +1,1 @@
-zzq-wep canary ctrl
+zzq ARM0 1789856245.6391037
